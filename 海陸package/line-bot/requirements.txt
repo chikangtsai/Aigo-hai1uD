@@ -1,0 +1,10 @@
+line-bot-sdk
+flask
+fuzzywuzzy
+pandas
+datetime
+matplotlib
+python-Levenshtein
+psycopg2
+gspread 
+oauth2client
