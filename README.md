@@ -31,6 +31,93 @@ TOPIC: AIOT智慧用量偵測與異常警示系統<br/>
   <img width="200" height="200" src="https://github.com/chikangtsai/Aigo-hai1uD/blob/main/海陸package/QRCODE.PNG">
 </p>
 
+參考文獻 <br/>
+Abbasimehr,  H.,  Shabani,  M.,  & Yousefi,  M.  (2020). An  optimized  model  using 
+LSTM network for demand forecasting. Computers & Industrial Engineering, 
+143, 13. doi:10.1016/j.cie.2020.106435 
+Babak Sohrabi, K. A. (2007). Customer lifetime value (CLV) measurement based on 
+RFM model.  
+Bitewulign KassaMekonnen, W. b., Tung-Han Hsieh, Shien-Kuei Liaw, Fu-Liang 
+Yang. (2020). Accurate prediction of glucose concentration and identification 
+of  major  contributing  features  from  hardly  distinguishable  near-infrared 
+spectroscopy. 59.  
+Cao, K., Kim, H., Hwang, C., & Jung, H. (2018). CNN-LSTM Coupled Model for 
+Prediction  of  Waterworks  Operation.  Journal  of  Information  Processing 
+Systems, 14(6), 1508-1520. doi:10.3745/jips.02.0104 
+Carbery,  C.  M.,  Woods,  R.,  &  Marshall,  A.  H.  (2019).  A  new  data  analytics 
+framework  emphasising  preprocessing  of  data  to  generate  insights  into 
+complex manufacturing systems. Proceedings of the Institution of Mechanical 
+Engineers Part C-Journal of Mechanical Engineering Science, 233(19-20), 
+6713-6726. doi:10.1177/0954406219866867 
+Ching-Hsue Cheng, Y.-S. C. (2009). Classifying the segmentation of customer value 
+via RFM model and RS theory. ELSEVIER, 36(3), 4176-4184.  
+Choi, D.-K. (2019). Data-Driven Materials Modeling with XGBoost Algorithm and 
+Statistical  Infer-ence Analysis  for  Prediction  of  Fatigue  Strength  of  Steels.  
+International Journal of Precision Engineering and Manufacturing, 129-138.  
+Dong, W., Huang, Y. M., Lehane, B., & Ma, G. W. (2020). XGBoost algorithm-based 
+prediction of concrete electrical resistivity for structural health monitoring. 
+Automation in Construction, 114, 11. doi:10.1016/j.autcon.2020.103155 
+Fader, P. S., Hardie, B. G. S., & Lee, K. L. (2005). RFM and CLV: Using iso-value 
+curves for customer base analysis. Journal of Marketing Research, 42(4), 415-
+430. doi:10.1509/jmkr.2005.42.4.415 
+Farrugia, S., Ellul, J., & Azzopardi, G. (2020). Detection of illicit accounts over the 
+Ethereum  blockchain.  Expert  Systems  with  Applications,  150,  11. 
+doi:10.1016/j.eswa.2020.113318 
+Gertz,  M.,  Grosse-Butenuth,  K.,  Junge,  W.,  Maassen-Francke,  B.,  Renner,  C., 
+Sparenberg, H., & Krieter, J. (2020). Using the XGBoost algorithm to classify 
+neck  and  leg  activity  sensor  data  using  on-farm  health  recordings  for 
+locomotor-associated  diseases.  Computers  and  Electronics  in  Agriculture, 
+173, 10. doi:10.1016/j.compag.2020.105404 
+Guo, J. Y., Xie, Z., Qin, Y., Jia, L. M., & Wang, Y. G. (2019). Short-Term Abnormal 
+Passenger  Flow Prediction Based on  the Fusion of SVR and  LSTM.  IEEE 
+ACCESS, 7, 42946-42955. doi:10.1109/access.2019.2907739 
+Han, Z. Z., Shang, M. Y., Liu, Z. B., Vong, C. M., Liu, Y. S., Zwicker, M., . . . Chen, 
+C.  L.  P.  (2019).  SeqViews2SeqLabels:  Learning  3D  Global  Features  via 
+Aggregating Sequential Views by RNN With Attention. Ieee Transactions on 
+Image Processing, 28(2), 658-672. doi:10.1109/tip.2018.2868426   
+Hochreiter, B., Frasconi, & Schmidhuber. (2001). Gradient Flow in Recurrent Nets: 
+the Difficulty of Learning Long-Term Dependencies.  
+Ji,  X.  J.,  Tong,  W.  D.,  Liu,  Z.  C.,  &  Shi,  T.  L.  (2019).  Five-Feature  Model  for 
+Developing the Classifier for Synergistic vs. Antagonistic Drug Combinations 
+Built  by  XGBoost.  Frontiers  in  Genetics,  10,  13. 
+doi:10.3389/fgene.2019.00600 
+Le Thi Le, H. N., Jian Zhou, Jie Dou  and Hossein Moayedi. (2019). Estimating the 
+Heating Load of Buildings for Smart City Planning Using a Nov-el Artificial 
+Intelligence Technique PSO-XGBoost.  
+Lei, X. Y., Pan, H. G., & Huang, X. D. (2019). A Dilated CNN Model for Image 
+Classification.  IEEE  ACCESS,  7,  124087-124095. 
+doi:10.1109/access.2019.2927169 
+Li, Y., Liu, D., Li, H. Q., Li, L., Li, Z., & Wu, F. (2019). Learning a Convolutional 
+Neural Network for Image Compact-Resolution. Ieee Transactions on Image 
+Processing, 28(3), 1092-1107. doi:10.1109/tip.2018.2872876 
+Lu, H. F., & Ma, X. (2020). Hybrid decision tree-based machine learning models for 
+short-term  water  quality  prediction.  Chemosphere,  249,  12. 
+doi:10.1016/j.chemosphere.2020.126169 
+Lu, W. X., Rui, H. D., Liang, C. Y., Jiang, L., Zhao, S. P., & Li, K. Q. (2020). A 
+Method  Based  on  GA-CNN-LSTM  for  Daily  Tourist  Flow  Prediction  at 
+Scenic Spots. Entropy, 22(3), 18. doi:10.3390/e22030261 
+Qingwen Jin, X. F., Jian Liu, Zhuxin Xue and Hongdeng Jian (2019). Using eXtreme 
+Gradient BOOSTing to Predict Changes in Tropical Cyclone In-tensity over 
+the Western North Pacific.  
+Schmidhuber, H. (1997). LONG SHORT-TERM MEMORY.  
+Tianqi Chen, C. G. (2016). XGBoost: A Scalable Tree Boosting System.  
+Wang, L. L. Y. Y. F. H. K. W. Q. (2019). Integrating Local CNN and Global CNN 
+for Script Identification in Natural Sce-ne Images. IEEE, 7, 52669-52679.  
+Wang, Q. C. S. W. Q. L. W. Z. L. (2018). MV-RNN: A Multi-View Recurrent Neural 
+Network for Sequential Recommen-dation. IEEE, 32, 317-331.  
+Xiangzeng  Zhou,  L.  X.,  Peng  Zhang  &  Yanning  Zhang  (2017).  Online  object 
+tracking  based  on  BLSTM-RNN  with  contextual-sequential  label-ing. 
+Journal of Ambient Intelligence and Humanized Computing, 861-870.  
+Yen-Liang Chen, M.-H. K., Shin-Yi Wu, Kwei Tang. (2009). Discovering recen-cy, 
+frequency,  and  monetary  (RFM)  sequential  patterns  from  customers’  pur-
+chasing data. ELSEVIER, 8(5), 241-251.  
+Zhang, P., Wang & Li. (2019). Forecasting Hotel Accommodation Demand Based 
+on LSTM Model Incorporating Internet Search Index.  
+Zhong, J. C., Sun, Y. S., Peng, W., Xie, M. Z., Yang, J. H., & Tang, X. W. (2018). 
+XGBFEMF: An XGBoost-Based Framework for Essential Protein Prediction. 
+Ieee  Transactions  on  Nanobioscience,  17(3),  243-250. 
+doi:10.1109/tnb.2018.2842219 <br/>
+
 其他等我心情好之後再補
 
 
