@@ -1,7 +1,6 @@
 # 109年 Aigo AI智慧應用新世代人才培育計畫．人才解題 數據分析組 
 
-![image](https://github.com/chikangtsai/Aigo-hai1uD/blob/main/海陸package/gloden陸.jpg)
-
+<div style="text-align:center"><img src="https://github.com/chikangtsai/Aigo-hai1uD/blob/main/海陸package/gloden陸.jpg" /></div>
 TOPIC: AIOT智慧用量偵測與異常警示系統
 
 解題團隊：大安紅蠍隊
