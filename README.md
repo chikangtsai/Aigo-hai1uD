@@ -13,9 +13,9 @@ Active Index, CAI)指標，幫助公司針對不同的顧客做出不同的商�
 中發掘數據價值，以 XGBoost 、LSTM模型來預估顧客的下一次購買時點，進而做到在正確的時間做出正確的推薦，同時整合自動化客服機器人，即
 時進行商品推薦及需求回應，提升顧客之消費體驗滿意度及品牌忠誠度。 
 
-![image] (https://github.com/chikangtsai/Aigo-hai1uD/blob/main/海陸package/QRCODE.PNG)
+![image](https://github.com/chikangtsai/Aigo-hai1uD/blob/main/海陸package/QRCODE.PNG)
 
-![image] (https://github.com/chikangtsai/Aigo-hai1uD/blob/main/海陸package/gloden陸.jpg)
+![image](https://github.com/chikangtsai/Aigo-hai1uD/blob/main/海陸package/gloden陸.jpg)
 
 等我心情好之後再補
 
