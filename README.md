@@ -4,12 +4,12 @@
   <img width="200" height="200" src="https://github.com/chikangtsai/Aigo-hai1uD/blob/main/海陸package/gloden陸.jpg">
 </p>
 
-##TOPIC: AIOT智慧用量偵測與異常警示系統<br/>
+<h2>TOPIC: AIOT智慧用量偵測與異常警示系統</h2><br/>
 
-###解題團隊：大安紅蠍隊<br/>
+<h2>解題團隊：大安紅蠍隊</h2><br/>
 
-###出題企業：海陸家赫<br/>
-####解題內容摘要 ：<br/><br/>
+<h2>出題企業：海陸家赫</h2><br/>
+<h3>解題內容摘要 ：<h3><br/><br/>
   海陸家赫公司希望能將服務力轉化為業務力，讓公司與顧客間的關係更為緊密，要做到這件事我們必須
   了解1.顧客需要什麼？2.顧客何時需要？接著統整以上資訊，導入自動化客服機器人，幫助提供最即時
   且精準的商品推薦，積極把握潛在訂單，提升顧客忠誠度。 
@@ -21,7 +21,7 @@
   點，進而做到在正確的時間做出正確的推薦，同時整合自動化客服機器人，即時進行商品推薦及需求回
   應，提升顧客之消費體驗滿意度及品牌忠誠度。 <br/><br/>
   
-####解題成果簡述  ：<br/><br/>
+<h3>解題成果簡述  ：<h3><br/><br/>
   相較於原本企業內部的(平均方法)，本次計畫提升下一次購買時點之預測精準度。<br/>
   該公司將業務依金額分為：A(最高金額)、B、C、D(最少金額)級 <br/>
   A 類訂單，海陸家赫公司原本的預測方法誤差為 241.7天，而我們的預測誤差僅 6.7天，精準度提升97% <br/>
@@ -32,17 +32,17 @@
   1.  以 RFM 模型結合 CAI 指標，根據不同客戶特性進行商品推薦 <br/>
   2.  打造 line@自動化客服機器人，根據 RFM 及 CAI 之計算結果主動進行商品推薦，並快速回應顧客需求，提升顧客之消費體驗滿意度及品牌忠誠度 <br/><br/>
 
-####此份package 包含：<br/>
+<h3>此份package 包含：<h3><br/>
 1）資料整理、視覺化<br/><br/>  2) RFM產品推薦<br/><br/>  3) xgboost預測<br/><br/>   4) LSTM預測<br/><br/>  5) Line-bot測試用程式碼<br/><br/>
 #由於資料保密協議僅留有一檔案保留測試紀錄
 
-####參考： Line bot Q-Code
+<h3>參考： Line bot Q-Code<h3>
 
 <p align="center">
   <img width="200" height="200" src="https://github.com/chikangtsai/Aigo-hai1uD/blob/main/海陸package/QRCODE.PNG">
 </p>
 
-####參考文獻 <br/>
+<h3>參考文獻 <h3><br/>
 Abbasimehr,  H.,  Shabani,  M.,  & Yousefi,  M.  (2020). An  optimized  model  using 
 LSTM network for demand forecasting. Computers & Industrial Engineering, 
 143, 13. doi:10.1016/j.cie.2020.106435 
@@ -129,6 +129,6 @@ XGBFEMF: An XGBoost-Based Framework for Essential Protein Prediction.
 Ieee  Transactions  on  Nanobioscience,  17(3),  243-250. 
 doi:10.1109/tnb.2018.2842219 <br/>
 
-####其他等我心情好之後再補
+<h4>其他等我心情好之後再補<h4>
 
 
