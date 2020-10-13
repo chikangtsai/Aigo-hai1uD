@@ -29,7 +29,16 @@
   2.  打造 line@自動化客服機器人，根據 RFM 及 CAI 之計算結果主動進行商品推薦，並快速回應顧客需求，提升顧客之消費體驗滿意度及品牌忠誠度 <br/><br/>
 
 <h3>此份package 包含：</h3><br/>
-1）資料整理、視覺化<br/><br/>  2) RFM產品推薦<br/><br/>  3) xgboost預測<br/><br/>   4) LSTM預測<br/><br/>  5) Line-bot測試用程式碼<br/><br/>
+1）資料整理、視覺化<br/><br/>  2) RFM產品推薦<br/><br/>  
+3) xgboost預測
+<p align="center">
+  <img width="200" height="200" src="https://github.com/chikangtsai/Aigo-hai1uD/blob/main/海陸package/xgb.PNG">
+</p><br/><br/>  
+4) LSTM預測
+<p align="center">
+  <img width="200" height="200" src="https://github.com/chikangtsai/Aigo-hai1uD/blob/main/海陸package/LSTM.PNG">
+</p><br/><br/>  
+5) Line-bot測試用程式碼<br/><br/>
 #由於資料保密協議僅留有一檔案保留測試紀錄
 
 <h3>參考： Line bot Q-Code</h3>
