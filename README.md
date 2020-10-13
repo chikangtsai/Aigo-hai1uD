@@ -43,7 +43,7 @@
 
 <h3>參考： Line bot Q-Code</h3>
 <p align="center">
-  <img width="600" height="120" src="https://github.com/chikangtsai/Aigo-hai1uD/blob/main/海陸package/LSTM.PNG">
+  <img width="600" height="210" src="https://github.com/chikangtsai/Aigo-hai1uD/blob/main/line_bot框架.png">
 </p><br/><br/>  
 <p align="center">
   <img width="200" height="200" src="https://github.com/chikangtsai/Aigo-hai1uD/blob/main/海陸package/QRCODE.PNG">
