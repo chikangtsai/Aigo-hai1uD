@@ -22,7 +22,7 @@ TOPIC: AIOT智慧用量偵測與異常警示系統
   應，提升顧客之消費體驗滿意度及品牌忠誠度。 
 
 此份package 包含：
-1）資料整理  2) RFM預測視覺化  3)xgboost預測   4)LSTM預測  5)Line-bot測試用程式碼
+1）資料整理<br/>  2) RFM預測視覺化<br/>  3)xgboost預測<br/>   4)LSTM預測<br/>  5)Line-bot測試用程式碼<br/>
 #由於資料保密協議僅留有一檔案保留測試紀錄
 
 參考： Line bot Q-Code
