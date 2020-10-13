@@ -1,7 +1,7 @@
 # 109年 Aigo AI智慧應用新世代人才培育計畫．人才解題 數據分析組 
 
 <p align="center">
-  <img width="600" height="200" src="https://github.com/chikangtsai/Aigo-hai1uD/blob/main/海陸package/gloden陸.jpg">
+  <img width="200" height="200" src="https://github.com/chikangtsai/Aigo-hai1uD/blob/main/海陸package/gloden陸.jpg">
 </p>
 
 TOPIC: AIOT智慧用量偵測與異常警示系統
@@ -26,8 +26,10 @@ TOPIC: AIOT智慧用量偵測與異常警示系統
 #由於資料保密協議僅留有一檔案保留測試紀錄
 
 參考： Line bot Q-Code
-![image](https://github.com/chikangtsai/Aigo-hai1uD/blob/main/海陸package/QRCODE.PNG)
 
+<p align="center">
+  <img width="200" height="200" src="https://github.com/chikangtsai/Aigo-hai1uD/blob/main/海陸package/QRCODE.PNG">
+</p>
 
 等我心情好之後再補
 
