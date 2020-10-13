@@ -4,7 +4,7 @@
   <img width="200" height="200" src="https://github.com/chikangtsai/Aigo-hai1uD/blob/main/海陸package/gloden陸.jpg">
 </p>
 
-<pre>&#9</pre> <h2>解題團隊：大安紅蠍隊   <pre>&#9</pre>  出題企業：海陸家赫</h2><br/><br/>
+<h2>解題團隊：大安紅蠍隊  <br/>   出題企業：海陸家赫</h2><br/><br/>
 <h3>解題內容摘要 ：</h3><br/><br/>
   海陸家赫公司希望能將服務力轉化為業務力，讓公司與顧客間的關係更為緊密，要做到這件事我們必須
   了解1.顧客需要什麼？2.顧客何時需要？接著統整以上資訊，導入自動化客服機器人，幫助提供最即時
