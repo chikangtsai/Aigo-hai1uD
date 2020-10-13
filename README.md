@@ -21,8 +21,8 @@ TOPIC: AIOT智慧用量偵測與異常警示系統
   點，進而做到在正確的時間做出正確的推薦，同時整合自動化客服機器人，即時進行商品推薦及需求回
   應，提升顧客之消費體驗滿意度及品牌忠誠度。 
 
-此份package 包含：
-1）資料整理<br/>  2) RFM預測視覺化<br/>  3)xgboost預測<br/>   4)LSTM預測<br/>  5)Line-bot測試用程式碼<br/>
+此份package 包含：<br/>
+1）資料整理<br/><br/>  2) RFM預測視覺化<br/><br/>  3)xgboost預測<br/><br/>   4)LSTM預測<br/><br/>  5)Line-bot測試用程式碼<br/>
 #由於資料保密協議僅留有一檔案保留測試紀錄
 
 參考： Line bot Q-Code
@@ -31,6 +31,6 @@ TOPIC: AIOT智慧用量偵測與異常警示系統
   <img width="200" height="200" src="https://github.com/chikangtsai/Aigo-hai1uD/blob/main/海陸package/QRCODE.PNG">
 </p>
 
-等我心情好之後再補
+其他等我心情好之後再補
 
 
